@@ -14,5 +14,4 @@ inputs:
   filename:
     required: true
     description: Username used to log in to a Docker registry. If not set then no login will occur
-    default: null
 
